@@ -2,6 +2,7 @@
 #include "math.h"
 #include <stdlib.h>
 #include <string.h>
+//work
 
 void oddOrEven(int n)//q2
 {
